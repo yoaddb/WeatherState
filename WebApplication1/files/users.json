@@ -1,0 +1,24 @@
+{
+  "users": [
+    { "name": "Beni",
+      "email": "Benni@AvaTrade.com",
+      "city": "New York",
+      "woeid": 2459115
+    },
+    { "name": "Oded",
+      "email": "Oded@AvaTrade.com",
+      "city": "Los Angeles",
+      "woeid": 2442047
+    },
+    { "name": "Eyal",
+      "email": "Eyal@AvaTrade.com",
+      "city": "Chicago",
+      "woeid": 2379574
+    },
+    { "name": "Miri",
+      "email": "Miri@AvaTrade.com",
+      "city": "Dallas",
+      "woeid": 2388929
+    }
+  ]
+}

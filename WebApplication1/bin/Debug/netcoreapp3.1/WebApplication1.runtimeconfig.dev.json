@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yoadb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yoadb\\.nuget\\packages"
+    ]
+  }
+}
